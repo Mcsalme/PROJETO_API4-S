@@ -23,16 +23,14 @@
 | Team Member    | Fábia   | [![Linkedin Badge](
 | Team Member    | Mariana | [![Linkedin Badge](
 
-
-
-
-
-
-
 # Objetivo do Projeto
+
+
 # Tecnologias Ultilizadas
 
 ### Tecnologias Especificas/Apoio
+
+
 ### Tecnologias da Informação
 
 # Backlog do produto
