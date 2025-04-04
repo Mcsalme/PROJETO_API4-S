@@ -55,8 +55,8 @@ Apresentar uma analise de eficiencia , fazendo levantamento
 
 Sprint | Previsão | Status | Histórico |
 |------|----------|--------|-----------|
-|01    |dd/mm/aaaa| a fazer| [MVP](https://) |
-|02    |dd/mm/aaaa| a fazer| [MVP](https://) |
-|03    |dd/mm/aaaa| a fazer| [MVP](https://) |
-|04    |dd/mm/aaaa| a fazer| [MVP](https://) |
-|Feira de Soluções|dd/mm/aaaa|a fazer| [MVP](https://) |
+|01    |04/04/2025| a fazer| [MVP](https://) |
+|02    |25/04/2025| a fazer| [MVP](https://) |
+|03    |16/05/2025| a fazer| [MVP](https://) |
+|Feira de Soluções|29/05/2025|a fazer| [MVP](https://) |
+|04    |27/06/2025| a fazer| [MVP](https://) |
