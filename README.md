@@ -1,6 +1,6 @@
-# PROJETO_API4-S
+# API4_- ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS_
 
-# Aprendizado por Projeto Integrador (API)
+## Aprendizado por Projeto Integrador (API)
 
 # Índice
 
@@ -24,7 +24,8 @@
 | Team Member    | Mariana | [![Linkedin Badge](
 
 # Objetivo do Projeto
-Apresentar uma analise de eficiencia , fazendo levantamento
+
+O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize informações sobre a eficiência portuária com base nos tempos de processamentos nos portos brasileiros e dados específicos do setor.
 
 # Tecnologias Ultilizadas
 
