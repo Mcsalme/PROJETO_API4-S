@@ -36,13 +36,11 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 
 # Backlog do produto
 
-## Sprint 1
-- [ ] Planejar Desenvolvimento do Projeto
-- [ ] Levantar e Registrar Requisitos usando técnicas de Métodos Ágeis e Tradicionais;
+| Sprint 1 | Sprint 2 | Sprint 3 | Sprint 4 |
+|:--------:|:--------:| :-------:|:--------:|
+| Planejar Desenvolvimento do Projeto | Revisar código vendo suas Estruturas de Dados | Analisar os tempos de operação portuária |
+| Levantar e Registrar Requisitos usando técnicas de Métodos Ágeis e Tradicionais| Implementar Aplicação usando conceitos de orientação a objetos (ORM | Avaliar a eficiencia entre terminais de operação |
 
-## Sprint 2
-- [ ] Revisar código vendo suas Estruturas de Dados;
-- [ ] Implementar Aplicação usando Conceitos de Orientação a Objetos (ORM).
 
 ## Sprint 3
 - [ ] Analisar os tempos de operação portuária;
